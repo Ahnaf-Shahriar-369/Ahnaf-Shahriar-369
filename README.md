@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Ahnaf-Shahriar-369/Ahnaf-Shahriar-369/blob/c52e304a3d5e90f4d2ca1904c6c6ca1ab014e26a/me-ghibli-coverphoto-cropped.png?raw=true)
 # 👋 About Me
 
-### Hey! I’m a 14-year-old developer based in Bangladesh 🇧🇩. I’ve learned web development from hablu-programmer.com, through their "Journey of Frontend Web Development Course" for a year, with a strong focus on front-end technologies like React, Next.js, TailwindCSS, and TypeScript. Currently, I’m focused on building my skills and gaining hands-on experience in front-end development and learning the basics of Back-end development with NodeJS, ExpressJS and MongoDB. ###
+### Hey! I’m a 21-year-old developer based in Bangladesh 🇧🇩. I’ve learned web development from hablu-programmer.com, through their "Journey of Frontend Web Development Course" for a year, with a strong focus on front-end technologies like React, Next.js, TailwindCSS, and TypeScript. Currently, I’m focused on building my skills and gaining hands-on experience in front-end development and learning the basics of Back-end development with NodeJS, ExpressJS and MongoDB. ###
 
 # 💻 Techstack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
