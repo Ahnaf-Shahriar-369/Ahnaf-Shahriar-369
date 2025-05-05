@@ -31,4 +31,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
-![image](https://github.com/user-attachments/assets/711490be-351c-4d6d-ac23-f1e3125a61c7)
+
