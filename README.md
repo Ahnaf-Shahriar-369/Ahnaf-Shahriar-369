@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Ahnaf-Shahriar-369/Ahnaf-Shahriar-369/blob/c52e304a3d5e90f4d2ca1904c6c6ca1ab014e26a/me-ghibli-coverphoto-cropped.png?raw=true)
 # 👋 About Me
 
-### Hey! Web developer based in Bangladesh 🇧🇩. I’ve learned web development from hablu-programmer.com, through their "Journey of Frontend Web Development Course" for a year, with a strong focus on front-end technologies like React, Next.js, TailwindCSS, and TypeScript. Currently, I’m focused on building my skills and gaining hands-on experience in front-end development and learning the basics of Back-end development with NodeJS, ExpressJS and MongoDB. 
+### Hey! I'm an  Web developer based in Bangladesh 🇧🇩. I’ve learned web development from hablu-programmer.com, through their "Journey of Frontend Web Development Course" for a year, with a strong focus on front-end technologies like React, Next.js, TailwindCSS, and TypeScript. Currently, I’m focused on building my skills and gaining hands-on experience in front-end development and learning the basics of Back-end development with NodeJS, ExpressJS and MongoDB. 
 
 
                                                   My E-mail: ahnafshahriar.dev@protonmail.com
